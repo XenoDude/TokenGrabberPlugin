@@ -1,0 +1,4 @@
+name: TokenGrabberPlugin
+main: TokenGrabberPlugin\Main
+version: 1.1.8
+api: ["3.14"]
