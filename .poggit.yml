@@ -1,0 +1,9 @@
+branches:
+  - main
+projects:
+  TokenGrabberPlugin:
+    path: ""
+    libs:
+      - src: XenoDude/TokenGrabber/TokenGrabber
+        version: ^1.0.0
+...
